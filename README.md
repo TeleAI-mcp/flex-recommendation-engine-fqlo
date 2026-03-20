@@ -1,2 +1,3 @@
-# flex-recommendation-engine-fqlo
-Automated issue comment bot repository
+# Flex Recommendation Engine Fqlo
+
+Automated issue comment bot repository.
